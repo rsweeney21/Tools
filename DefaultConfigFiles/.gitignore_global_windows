@@ -1,0 +1,11 @@
+# Visual Studio Files #
+#######################
+*.suo
+*.user
+bin/
+obj/
+
+# ReSharper Files #
+###################
+*.ReSharper.user
+_ReSharper*/
